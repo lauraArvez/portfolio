@@ -12,8 +12,8 @@ Aquí encontrarás una colección de mis proyectos más destacados.
 ## Contacto
 * Correo:
 * 
-## Proyecto 1: API CRUD
-### Descripción
+### Proyecto 1: API CRUD
+#### Descripción
 Se trata de una sencilla API RESTful para la gestión de productos. 
 Permite realizar operaciones CRUD (Create, Read, Update, Delete) sobre entidades de producto.
 ### Tecnologías Utilizadas
