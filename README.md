@@ -10,7 +10,7 @@ Aquí encontrarás una colección de mis proyectos más destacados.
 
 
 ## Contacto
-* Correo:
+* [Correo:](https://lauraarvez.github.io/)
 * 
 ### Proyecto 1: API CRUD
 #### Descripción
