@@ -11,7 +11,8 @@ Aquí encontrarás una colección de mis proyectos más destacados.
 
 ## Contacto
 * [Correo](https://lauraarvez.github.io/)
-* [Tel](https://lauraarvez.github.io/))
+
+  
 ### Proyecto 1: API CRUD
 #### Descripción
 Se trata de una sencilla API RESTful para la gestión de productos. 
