@@ -19,4 +19,4 @@ Permite realizar operaciones CRUD (Create, Read, Update, Delete) sobre entidades
 - Hibernate
 - H2 Database (for testing)
 ### Enlace al proyecto  
-[[Ver Proyecto en GitHub]([apicrud](https://github.com/lauraArvez/portfolio/tree/main/apicrud)
+[Ver Proyecto en GitHub](https://github.com/lauraArvez/portfolio/tree/main/apicrud)
