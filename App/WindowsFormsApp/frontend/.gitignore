@@ -1,0 +1,114 @@
+# Windows Forms / Visual Studio / C# (.NET) related ignores
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.pidb
+*.log
+*.sln.docstates
+
+# Compiled Binaries
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.cache
+*.ilk
+*.log
+*.obj
+*.bin
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Rider project files
+.idea/
+
+# Resharper files
+_ReSharper*/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# OS generated files
+.DS_Store
+$RECYCLE.BIN/
+*.bak
+*.swp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Core environment settings
+appsettings*.json
+.env
+
+# Logs
+*.log
+*.tlog
+
+# Spring Boot / Java related ignores
+
+# Maven and Gradle directories
+/.mvn/
+/target/
+/build/
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Generated files
+*.jar
+*.war
+
+# IDE related ignores
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node.js
+node_modules/
+yarn-error.log
+yarn.lock
+
+# MacOS specific files
+.DS_Store
+
+# Database files (if applicable)
+*.db
+*.sql
