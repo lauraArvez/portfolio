@@ -1,0 +1,16 @@
+
+RESUMEN DE LOS CÓDIGOS DE LA CARPETA Security.
+
+1. JwtAuthenticationFilter: Filtra las solicitudes de autenticación.
+Cuando un usuario intenta iniciar sesión, intenta autenticar al usuario con el AuthenticationManager y, si es exitoso, genera un token JWT y lo devuelve en la respuesta.
+
+2. JwtAuthorizationFilter: Filtra las solicitudes para autorizar al usuario.
+Extrae el token JWT de las solicitudes entrantes, lo valida y configura el contexto de seguridad de Spring Security con la autenticación correspondiente.
+
+3. UserAuthenticationFailedException: Una excepción personalizada que se lanza cuando la autenticación del usuario falla.
+
+4. WebSecurityConfig: Configuración de seguridad de Spring que incluye las rutas permitidas, la configuración de CORS y CSRF, y los filtros de autenticación y autorización.
+
+5. AuthorizationResponse: Un modelo simple que representa la respuesta de autorización con un token JWT.
+
+6. JwtAuthenticationFailureHandler: Manejador de fallos de autenticación que devuelve una respuesta JSON con detalles del error cuando la autenticación falla.

@@ -1,0 +1,16 @@
+
+# Maven
+target/
+
+# Ignorar carpeta version
+version/
+
+# Logs
+*.log
+
+# Imagen temporal
+*.jpg
+
+# OS generated files
+.DS_Store
+Thumbs.db
