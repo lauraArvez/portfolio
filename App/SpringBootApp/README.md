@@ -1,5 +1,5 @@
 # Spring Boot & JWT Authentication - Backend API
-
+![swagger](../images/swagger.png) 
 ## Descripción del Proyecto
 
 Este proyecto es una **API RESTful** desarrollada con **Spring Boot** que implementa un sistema de gestión de usuarios y autenticación basada en **JWT (JSON Web Tokens)**. 
