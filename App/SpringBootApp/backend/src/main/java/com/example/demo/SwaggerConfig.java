@@ -59,11 +59,11 @@ public class SwaggerConfig {
                                 .paths(PathSelectors.any())
                                 .build()
                                 .apiInfo(
-                                        new ApiInfo("API",
+                                        new ApiInfo("Club de Atletismo API",
+                                        "API REST para la gestión de un club de atletismo, incluyendo la administración de usuarios, roles, eventos, y más.",
+                                        "1.0.0",
                                         "",
-                                        "",
-                                        "",
-                                        new Contact("","",""),
+                                        new Contact("Laura Arvez","https://lauraarvez.github.io/","arvezlau@hotmail.com"),
                                         "",
                                         "",
                                         Collections.emptyList()
