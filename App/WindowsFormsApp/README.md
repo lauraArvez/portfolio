@@ -1,4 +1,5 @@
-# WindowsFormsApp - Gestión de un Club de Atletismo
+# Gestión de un Club de Atletismo
+![home](../images/home_admin.png) ![home](../images/atleta_home.png)
 
 ## Descripción
 Esta aplicación de **Windows Forms** actúa como la interfaz de usuario de la aplicación **InterfazRest** para la gestión de un **club de atletismo**, 
@@ -30,4 +31,10 @@ Si bien algunas funcionalidades adicionales están en desarrollo, las principale
 - **FontAwesome.Sharp** - Librería de iconos para enriquecer la experiencia visual de los botones y menús.
 - **Spring Boot API** - API RESTful a la cual se conecta la aplicación para interactuar con la base de datos.
 - **MySQL Workbench** - Plataforma utilizada para administrar la base de datos MySQL.
- 
+- **IA GPT** - Generación de imágenes para el fondo de los formularios.
+
+ ## Instalación
+ 1. **Clona el repositorio**:  ```bash   git clone https://github.com/tu_usuario/WindowsFormsApp.git
+ 2. **Compila y ejecuta** el proyecto desde Visual Studio.
+ 3. **Configura la conexión al servidor** Spring Boot en los archivos de configuración.
+ 4. Asegúrate de que el **backend esté corriendo** y la **base de datos** esté correctamente configurada.

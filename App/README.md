@@ -1,13 +1,13 @@
-# App - Aplicación de Gestión
-
+#  Club de Atletismo
+![home](./images/home.png)
 ## Descripción del Proyecto
 
 **App** es una aplicación de gestión que utiliza una interfaz de usuario desarrollada en **Windows Forms** 
 conectada a un backend implementado en **Spring Boot** y 
 una base de datos relacional en **MySQL**. 
 
-La aplicación permite a los usuarios iniciar sesión, registrarse, modificar contraseñas, y 
-realizar varias acciones administrativas (como la gestión de roles de usuario). 
+La aplicación permite a los usuarios iniciar sesión y 
+realizar varias acciones administrativas (como la gestión de roles de usuario, registrar y modificar contraseñas). 
 
 La interfaz de usuario y las funcionalidades de administración están diseñadas para ser intuitivas y fáciles de usar.
 
