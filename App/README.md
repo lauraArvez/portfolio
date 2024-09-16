@@ -1,7 +1,5 @@
 #  Club de Atletismo
 ![home](./images/home.png)
-![home](./images/home_admin.png) ![home](./images/atleta_home.png)
-
 ## Descripción del Proyecto
 
 **App** es una aplicación de gestión que utiliza una interfaz de usuario desarrollada en **Windows Forms** 
