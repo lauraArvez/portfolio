@@ -143,7 +143,7 @@ namespace InterfazRest
 
         private void iconButtonShop_Click(object sender, EventArgs e)
         {
-            ActivateButtonAndOpenForm((IconButton)sender, new ShopForm(_authService));
+            ActivateButtonAndOpenForm((IconButton)sender, new ProfileForm(_authService));
         }
 
         private void iconButtonProfile_Click(object sender, EventArgs e)
