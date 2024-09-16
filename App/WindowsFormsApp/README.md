@@ -1,3 +1,4 @@
+![HOME](App/WindowsFormsApp/images/HOME.png)
 # WindowsFormsApp - Gestión de un Club de Atletismo
 
 ## Descripción
