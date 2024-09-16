@@ -1,4 +1,5 @@
 ![home](./images/home.png)
+![home](./images/home_admin.png) ![home](./images/atleta_home.png)
 
 # App - Aplicación de Gestión
 
