@@ -1,3 +1,5 @@
+![home](./images/home.png)
+
 # App - Aplicación de Gestión
 
 ## Descripción del Proyecto
