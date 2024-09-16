@@ -1,5 +1,5 @@
 # Gestión de un Club de Atletismo
-![home](./images/home_admin.png) ![home](./images/atleta_home.png)
+![home](../images/home_admin.png) ![home](../images/atleta_home.png)
 
 ## Descripción
 Esta aplicación de **Windows Forms** actúa como la interfaz de usuario de la aplicación **InterfazRest** para la gestión de un **club de atletismo**, 
