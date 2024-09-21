@@ -6,7 +6,7 @@ Aquí encontrarás una colección de mis proyectos más destacados.
 
 ## Índide
 1. [Proyecto 1: API CRUD](#proyecto-1)
-2. [Proyecto 1: APP(#proyecto-2)
+2. [Proyecto 2: APP(#proyecto-2)
 
 
 ## Contacto
