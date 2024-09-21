@@ -27,7 +27,7 @@ Permite realizar operaciones CRUD (Create, Read, Update, Delete) sobre entidades
 [Ver Proyecto en GitHub](https://github.com/lauraArvez/portfolio/tree/main/apicrud)
 
 
-### Proyecto 1: APP
+### Proyecto 2: APP
 #### Descripción
 App es una aplicación de gestión que utiliza una interfaz de usuario desarrollada en Windows Forms conectada 
 a un backend implementado en Spring Boot y una base de datos relacional en MySQL.
