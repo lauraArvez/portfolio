@@ -32,13 +32,11 @@ Permite realizar operaciones CRUD (Create, Read, Update, Delete) sobre entidades
 App es una aplicación de gestión que utiliza una interfaz de usuario desarrollada en Windows Forms conectada 
 a un backend implementado en Spring Boot y una base de datos relacional en MySQL.
 ### Tecnologías Utilizadas
-- Java
-- Spring Boot
-- Maven
-- JWT (JSON Web Tokens)
-- JPA (Java Persistence API)
-- Swagger
-- Lombok
-- MySQL
+## Back-end: 
+Java - Spring Boot - Maven - JWT (JSON Web Tokens)
+JPA (Java Persistence API) - MySQL - Swagger - Lombok 
+## Front-end: 
+C# - Windows Forms - FontAwesome.Sharp - Spring Boot API - API RESTful
+IA GPT - Generación de imágenes
 ### Enlace al proyecto  
 [Ver Proyecto en GitHub](https://github.com/lauraArvez/portfolio/tree/main/app)
