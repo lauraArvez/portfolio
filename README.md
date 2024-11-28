@@ -39,4 +39,4 @@ JPA (Java Persistence API) - MySQL - Swagger - Lombok
 C# - Windows Forms - FontAwesome.Sharp - Spring Boot API - API RESTful
 IA GPT - Generación de imágenes
 ### Enlace al proyecto  
-[Ver Proyecto en GitHub](https://github.com/lauraArvez/portfolio/tree/main/app)
+[Ver Proyecto en GitHub](App)
