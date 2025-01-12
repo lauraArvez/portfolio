@@ -5,9 +5,9 @@
 Aquí encontrarás una colección de mis proyectos más destacados.
 
 ## Índide
-1. [Proyecto 1: API CRUD](#proyecto-1)
-2. [Proyecto 2: APP](#proyecto-2)
-3. [Proyecto 3: API CRUD](#proyecto-3)
+1. [Proyecto 1: API CRUD](#proyecto-1-api-crud)
+2. [Proyecto 2: APP](#proyecto-2-app)
+3. [Proyecto 3: UDP_Ahorcado_Back](#proyecto-3-UDP_Ahorcado_Back)
 
 ## Contacto
 * [Correo](https://lauraarvez.github.io/)
@@ -52,4 +52,4 @@ Java - Spring Boot - Maven - JWT (JSON Web Tokens)
 JPA (Java Persistence API) - MySQL 
 
 ### Enlace al proyecto  
-[Ver Proyecto en GitHub]([UDP_Ahorcado_Back/el_ahorcado](https://github.com/lauraArvez/portfolio/tree/main/UDP_Ahorcado_Back/el_ahorcado))
+[Ver Proyecto en GitHub](https://github.com/lauraArvez/portfolio/tree/main/UDP_Ahorcado_Back/el_ahorcado)
