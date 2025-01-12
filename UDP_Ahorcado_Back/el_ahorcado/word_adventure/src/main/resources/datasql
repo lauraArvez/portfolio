@@ -1,0 +1,7 @@
+-- La contraseña es: admin
+INSERT INTO users (username, password) VALUES (1, 'admin', '$2a$10$L4lX.V5hRoX9ko5gPBhD.eYfH5djNTNctgo6jRvP7uGqJynfXUqfe','');
+
+INSERT INTO roles (id, name) VALUES (1, 'ADMIN');
+INSERT INTO roles (id, name) VALUES (2, 'USER');
+
+INSERT INTO user_roles (user_id, role_id) VALUES (1, 1);

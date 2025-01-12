@@ -1,0 +1,35 @@
+version: '3'                    # Versión de Docker Compose que estamos usando
+services:                        # Define los servicios (contenedores) a ejecutar
+
+  mysql:                         # Nombre del servicio MySQL
+    image: mysql:latest          # Imagen Docker de MySQL en su última versión
+    container_name: mysql        # Nombre del contenedor para identificarlo fácilmente
+    environment:                 # Variables de entorno para la configuración de MySQL
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}  # Contraseña del usuario root de MySQL
+      MYSQL_DATABASE: word_adventure  # Nombre de la base de datos que se creará
+    ports:
+      - "3307:3306"              # Mapea el puerto 3306 del contenedor al 3307 del host
+    networks:
+      - app-network              # Red compartida entre servicios
+
+  app:                           # Nombre del servicio de tu aplicación Java
+    build:                       # Configuración para construir la imagen de tu aplicación
+      context: .                 # Directorio actual, donde está tu Dockerfile
+      dockerfile: Dockerfile     # Nombre del Dockerfile para construir la imagen
+    container_name: word_adventure  # Nombre del contenedor para la aplicación
+    ports:
+      - "5432:5432/udp"          # Mapea el puerto UDP 8080 del contenedor al 8080 del host
+    environment:                 # Variables de entorno para la configuración de la aplicación
+      SPRING_DATASOURCE_URL: ${DB_URL}
+      SPRING_DATASOURCE_USERNAME: ${DB_USERNAME}
+      SPRING_DATASOURCE_PASSWORD: ${DB_PASSWORD}
+      SPRING_DATASOURCE_DRIVER_CLASS_NAME: com.mysql.cj.jdbc.Driver
+    depends_on:                  # Define el orden de inicio, espera a que MySQL esté listo
+      - mysql
+    command: ["/bin/sh", "-c", "./wait-for-it.sh mysql:3306 -- java -jar app.jar"]
+    networks:
+      - app-network              # Red compartida para comunicarse con el contenedor MySQL
+
+networks:
+  app-network:                   # Define la red personalizada "app-network"
+    driver: bridge               # Tipo de red, permite que los contenedores se comuniquen entre sí

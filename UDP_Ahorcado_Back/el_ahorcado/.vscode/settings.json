@@ -1,0 +1,11 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "maven.terminal.customEnv": [
+
+    ],
+    "maven.terminal.favorites": [
+        
+    ],
+    "files.encoding": "utf8",
+    "git.ignoreLimitWarning": true
+}

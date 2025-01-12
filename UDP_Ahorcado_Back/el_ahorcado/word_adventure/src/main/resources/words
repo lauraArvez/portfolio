@@ -1,0 +1,183 @@
+insert into words(palabra, level_id, tema_id) values ('Elefante',2,1);
+insert into words(palabra, level_id, tema_id) values ('León',2,1);
+insert into words(palabra, level_id, tema_id) values ('Tigre',2,1);
+insert into words(palabra, level_id, tema_id) values ('Jirafa',2,1);
+insert into words(palabra, level_id, tema_id) values ('Mono',2,1);
+
+insert into words(palabra, level_id, tema_id) values ('Serpiente',3,1);
+insert into words(palabra, level_id, tema_id) values ('Rinoceronte',3,1);
+insert into words(palabra, level_id, tema_id) values ('Hipopótamo',3,1);
+insert into words(palabra, level_id, tema_id) values ('Pingüino',3,1);
+insert into words(palabra, level_id, tema_id) values ('Cocodrilo',3,1);
+
+insert into words(palabra, level_id, tema_id) values ('Ornitorrinco',4,1);
+insert into words(palabra, level_id, tema_id) values ('Lince',4,1);
+insert into words(palabra, level_id, tema_id) values ('Zarigüeya',4,1);
+insert into words(palabra, level_id, tema_id) values ('Avestruz',4,1);
+insert into words(palabra, level_id, tema_id) values ('Armadillo',4,1);
+
+insert into words(palabra, level_id, tema_id) values ('Tarántula',5,1);
+insert into words(palabra, level_id, tema_id) values ('Colibrí',5,1);
+insert into words(palabra, level_id, tema_id) values ('Langosta',5,1);
+insert into words(palabra, level_id, tema_id) values ('Salamandra',5,1);
+insert into words(palabra, level_id, tema_id) values ('Emú',5,1);
+
+insert into words(palabra, level_id, tema_id) values ('País',1,2);
+insert into words(palabra, level_id, tema_id) values ('Río',1,2);
+insert into words(palabra, level_id, tema_id) values ('Montaña',1,2);
+insert into words(palabra, level_id, tema_id) values ('Lago',1,2);
+
+insert into words(palabra, level_id, tema_id) values ('Francia',2,2);
+insert into words(palabra, level_id, tema_id) values ('Italia',2,2);
+insert into words(palabra, level_id, tema_id) values ('Londres',2,2);
+insert into words(palabra, level_id, tema_id) values ('Amazonas',2,2);
+insert into words(palabra, level_id, tema_id) values ('Everest',2,2);
+
+insert into words(palabra, level_id, tema_id) values ('Australia',3,2);
+insert into words(palabra, level_id, tema_id) values ('Japón',3,2);
+insert into words(palabra, level_id, tema_id) values ('Nilo',3,2);
+insert into words(palabra, level_id, tema_id) values ('Kilimanjaro',3,2);
+insert into words(palabra, level_id, tema_id) values ('Sahara',3,2);
+
+insert into words(palabra, level_id, tema_id) values ('Kazajistán',4,2);
+insert into words(palabra, level_id, tema_id) values ('Bután',4,2);
+insert into words(palabra, level_id, tema_id) values ('Turkmenistán',4,2);
+insert into words(palabra, level_id, tema_id) values ('Tayikistán',4,2);
+insert into words(palabra, level_id, tema_id) values ('Eslovaquia',4,2);
+
+insert into words(palabra, level_id, tema_id) values ('Mauritania',5,2);
+insert into words(palabra, level_id, tema_id) values ('Kirguistán',5,2);
+insert into words(palabra, level_id, tema_id) values ('Uzbekistán',5,2);
+insert into words(palabra, level_id, tema_id) values ('Singapur',5,2);
+insert into words(palabra, level_id, tema_id) values ('Djibouti',5,2);
+
+
+insert into words(palabra, level_id, tema_id) values ('Árbol',1,3);
+insert into words(palabra, level_id, tema_id) values ('Sol',1,3);
+insert into words(palabra, level_id, tema_id) values ('Agua',1,3);
+insert into words(palabra, level_id, tema_id) values ('Flor',1,3);
+insert into words(palabra, level_id, tema_id) values ('Nube',1,3);
+
+insert into words(palabra, level_id, tema_id) values ('Playa',2,3);
+insert into words(palabra, level_id, tema_id) values ('Montaña',2,3);
+insert into words(palabra, level_id, tema_id) values ('Pájaro',2,3);
+insert into words(palabra, level_id, tema_id) values ('Bosque',2,3);
+insert into words(palabra, level_id, tema_id) values ('Mariposa',2,3);
+
+insert into words(palabra, level_id, tema_id) values ('Catarata',3,3);
+insert into words(palabra, level_id, tema_id) values ('Aurora',3,3);
+insert into words(palabra, level_id, tema_id) values ('Tornado',3,3);
+insert into words(palabra, level_id, tema_id) values ('Geiser',3,3);
+insert into words(palabra, level_id, tema_id) values ('Manglar',3,3);
+
+insert into words(palabra, level_id, tema_id) values ('Arrecife',4,3);
+insert into words(palabra, level_id, tema_id) values ('Estalactita',4,3);
+insert into words(palabra, level_id, tema_id) values ('Fumarola',4,3);
+insert into words(palabra, level_id, tema_id) values ('Tundra',4,3);
+insert into words(palabra, level_id, tema_id) values ('Taiga',4,3);
+
+insert into words(palabra, level_id, tema_id) values ('Biodiversidad',5,3);
+insert into words(palabra, level_id, tema_id) values ('Fosilización',5,3);
+insert into words(palabra, level_id, tema_id) values ('Micorriza',5,3);
+insert into words(palabra, level_id, tema_id) values ('Fitoplancton',5,3);
+insert into words(palabra, level_id, tema_id) values ('Oligotrófico',5,3);
+
+insert into words(palabra, level_id, tema_id) values ('Mesa',1,4);
+insert into words(palabra, level_id, tema_id) values ('Silla',1,4);
+insert into words(palabra, level_id, tema_id) values ('lámpara',1,4);
+insert into words(palabra, level_id, tema_id) values ('Libro',1,4);
+insert into words(palabra, level_id, tema_id) values ('Vaso',1,4);
+
+insert into words(palabra, level_id, tema_id) values ('Coche',2,4);
+insert into words(palabra, level_id, tema_id) values ('Ordenador',2,4);
+insert into words(palabra, level_id, tema_id) values ('Teléfono',2,4);
+insert into words(palabra, level_id, tema_id) values ('Cama',2,4);
+insert into words(palabra, level_id, tema_id) values ('Reloj',2,4);
+
+
+insert into words(palabra, level_id, tema_id) values ('Microondas',3,4);
+insert into words(palabra, level_id, tema_id) values ('Lavadora',3,4);
+insert into words(palabra, level_id, tema_id) values ('Lavavajillas',3,4);
+insert into words(palabra, level_id, tema_id) values ('Secadora',3,4);
+insert into words(palabra, level_id, tema_id) values ('Batidora',3,4);
+
+insert into words(palabra, level_id, tema_id) values ('Escáner',4,4);
+insert into words(palabra, level_id, tema_id) values ('Fotocopiadora',4,4);
+insert into words(palabra, level_id, tema_id) values ('Taladro',4,4);
+insert into words(palabra, level_id, tema_id) values ('Abrelatas',4,4);
+insert into words(palabra, level_id, tema_id) values ('Extintor',4,4);
+
+insert into words(palabra, level_id, tema_id) values ('Esfigmomanómetro',5,4);;
+insert into words(palabra, level_id, tema_id) values ('Hidroavión',5,4);
+insert into words(palabra, level_id, tema_id) values ('Licuadora',5,4);
+insert into words(palabra, level_id, tema_id) values ('Acelerómetro',5,4);
+insert into words(palabra, level_id, tema_id) values ('Glucometría',5,4);
+
+insert into words(palabra, level_id, tema_id) values ('Médico',1,5);
+insert into words(palabra, level_id, tema_id) values ('Carpintero',1,5);
+insert into words(palabra, level_id, tema_id) values ('Bombero',1,5);
+insert into words(palabra, level_id, tema_id) values ('Maestro',1,5);
+insert into words(palabra, level_id, tema_id) values ('Cocinero',1,5);
+
+insert into words(palabra, level_id, tema_id) values ('policía',2,5);
+insert into words(palabra, level_id, tema_id) values ('abogado',2,5);
+insert into words(palabra, level_id, tema_id) values ('ingeniero',2,5);
+insert into words(palabra, level_id, tema_id) values ('músico',2,5);
+insert into words(palabra, level_id, tema_id) values ('enfermero',2,5);
+
+insert into words(palabra, level_id, tema_id) values ('Arquitecto',3,5);
+insert into words(palabra, level_id, tema_id) values ('Electricista',3,5);
+insert into words(palabra, level_id, tema_id) values ('Fontanero',3,5);
+insert into words(palabra, level_id, tema_id) values ('Psicólogo',3,5);
+insert into words(palabra, level_id, tema_id) values ('Fotógrafo',3,5);
+
+insert into words(palabra, level_id, tema_id) values ('Quiropráctico',4,5);
+insert into words(palabra, level_id, tema_id) values ('Escenógrafo',4,5);
+insert into words(palabra, level_id, tema_id) values ('Oceanógrafo',4,5);
+insert into words(palabra, level_id, tema_id) values ('Endocrinólogo',4,5);
+insert into words(palabra, level_id, tema_id) values ('Egiptólogo',4,5);
+
+insert into words(palabra, level_id, tema_id) values ('Biotecnólogo',5,5);
+insert into words(palabra, level_id, tema_id) values ('Geomorfólogo',5,5);
+insert into words(palabra, level_id, tema_id) values ('Epidemiólogo',5,5);
+insert into words(palabra, level_id, tema_id) values ('Entomólogo',5,5);
+insert into words(palabra, level_id, tema_id) values ('Fisioterapeuta',5,5);
+
+insert into words(palabra, level_id, tema_id) values ('Correr',1,6);
+insert into words(palabra, level_id, tema_id) values ('Saltar',1,6);
+insert into words(palabra, level_id, tema_id) values ('Comer',1,6);
+insert into words(palabra, level_id, tema_id) values ('Dormir',1,6);
+insert into words(palabra, level_id, tema_id) values ('Hablar',1,6);
+
+insert into words(palabra, level_id, tema_id) values ('Estudiar',2,6);
+insert into words(palabra, level_id, tema_id) values ('Nadar',2,6);
+insert into words(palabra, level_id, tema_id) values ('Trabajar',2,6);
+insert into words(palabra, level_id, tema_id) values ('Viajar',2,6);
+insert into words(palabra, level_id, tema_id) values ('Bailar',2,6);
+
+insert into words(palabra, level_id, tema_id) values ('Caminar',3,6);
+insert into words(palabra, level_id, tema_id) values ('Cocinar',3,6);
+insert into words(palabra, level_id, tema_id) values ('Escribir',3,6);
+insert into words(palabra, level_id, tema_id) values ('Pintar',3,6);
+insert into words(palabra, level_id, tema_id) values ('Cantar',3,6);
+
+insert into words(palabra, level_id, tema_id) values ('Esquiar',4,6);
+insert into words(palabra, level_id, tema_id) values ('Meditar',4,6);
+insert into words(palabra, level_id, tema_id) values ('Escalar',4,6);
+insert into words(palabra, level_id, tema_id) values ('Componer',4,6);
+insert into words(palabra, level_id, tema_id) values ('Interpretar',4,6);
+
+insert into words(palabra, level_id, tema_id) values ('Transcribir',5,6);
+insert into words(palabra, level_id, tema_id) values ('Encapsular',5,6);
+insert into words(palabra, level_id, tema_id) values ('Sintetizar',5,6);
+insert into words(palabra, level_id, tema_id) values ('Codificar',5,6);
+insert into words(palabra, level_id, tema_id) values ('Diagnosticar',5,6);
+
+
+
+
+
+
+
+
+
